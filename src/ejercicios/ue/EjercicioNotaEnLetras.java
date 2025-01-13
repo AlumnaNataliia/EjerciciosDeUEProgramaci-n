@@ -1,3 +1,4 @@
+
 package ejercicios.ue;
 import java.util.Scanner;
 public class EjercicioNotaEnLetras {
@@ -26,3 +27,4 @@ scanner.close();
 	}
 
 }
+

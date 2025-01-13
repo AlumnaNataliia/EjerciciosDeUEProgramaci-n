@@ -1,3 +1,4 @@
+
 package ejercicios.ue;
 import java.util.Scanner;
 public class EjercicioBienvenidoNotas {
@@ -33,3 +34,4 @@ public class EjercicioBienvenidoNotas {
 			sc.close();		
 		 }
 		}
+

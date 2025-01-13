@@ -46,6 +46,7 @@ else {
 
 op1 = op1+7;
 op1 +=7;
+sc.close();
 	}
 
 }

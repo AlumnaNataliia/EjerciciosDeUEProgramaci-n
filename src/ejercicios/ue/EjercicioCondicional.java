@@ -10,7 +10,7 @@ public class EjercicioCondicional {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Dime ti edad: ");
+		System.out.println("Dime tu edad: ");
 		
 		edad = sc.nextInt();
 		
@@ -28,6 +28,7 @@ public class EjercicioCondicional {
 		
 		}
 		System.out.println("Prueba condicional compuesto");
+		sc.close();
 		}
 }
 

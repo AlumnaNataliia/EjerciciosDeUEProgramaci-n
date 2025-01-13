@@ -15,7 +15,7 @@ public class PrimerosEjerciciosJava {
 			
 			final double PI = 3.1416;
 			String apellidos="Navazo"; //Variable de tipo cadena de texto
-			char letraDni='G'; //Variable de tipo letra
+			char letraDNI='G'; //Variable de tipo letra
 			
 			boolean valor = false;
 			

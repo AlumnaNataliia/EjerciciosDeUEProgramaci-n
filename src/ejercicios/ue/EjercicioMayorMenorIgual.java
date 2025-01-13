@@ -1,3 +1,4 @@
+
 package ejercicios.ue;
 /*Dado dos números por teclado, que me muestre cuál es el mayor, menor y si son iguales*/
 import java.util.Scanner;
@@ -33,4 +34,5 @@ public static void main(String[] args) {
 	
 	
 }
+
 

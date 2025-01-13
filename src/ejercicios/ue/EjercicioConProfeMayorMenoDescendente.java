@@ -1,3 +1,4 @@
+
 package ejercicios.ue;
 import java.util.Scanner;
 public class EjercicioConProfeMayorMenoDescendente {
@@ -69,3 +70,4 @@ public class EjercicioConProfeMayorMenoDescendente {
 	}
 
 }
+

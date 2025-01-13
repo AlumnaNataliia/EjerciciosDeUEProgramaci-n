@@ -1,3 +1,4 @@
+
 package ejercicios.ue;
 import java.util.Scanner;
 public class EjercicioParOImpar {
@@ -17,3 +18,4 @@ scanner.close();
 		}
 
 }
+
